@@ -2,8 +2,12 @@
 Here is a collection of code snippets to make matlab figures prettier
 
 **before**
-<img width="517" alt="image" src="https://github.com/jingxiangwu/matlab_fig_tricks/assets/110117607/dc6eae8b-a59d-4866-8603-43fb848fa774">
+
+<img width="506" alt="image" src="https://github.com/jingxiangwu/matlab_fig_tricks/assets/110117607/94d857ac-ceea-45d8-9b4e-b01782b7edf5">
+
 
 **after**
-<img width="464" alt="image" src="https://github.com/jingxiangwu/matlab_fig_tricks/assets/110117607/80c91c8c-cbbe-4706-823f-8a57bc542c43">
+
+<img width="473" alt="image" src="https://github.com/jingxiangwu/matlab_fig_tricks/assets/110117607/c5031ec5-81d4-415b-b7db-2c4f8ac86f61">
+
 
