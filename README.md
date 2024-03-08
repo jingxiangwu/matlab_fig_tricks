@@ -1,2 +1,2 @@
-# matlab_fig_tricks
-to make matlab figures prettier
+# Process Matlab figure 
+Here is a collection of code snippets to make matlab figures prettier
